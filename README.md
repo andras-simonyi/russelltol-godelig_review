@@ -1,1 +1,1 @@
-# russelltol-godelig_review
+These are the Emacs Org mode sources of a review of the book Zoltán Gábor Molnár (Ed.), _Russeltől Gödelig. Esszék a matematika filozófiai problémáiról_ (Budapest: Typotex, 2020).  Both the book and the review are in Hungarian.
